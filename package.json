@@ -1,0 +1,13 @@
+{
+  "name": "afroz-swift-financials",
+  "version": "1.0.0",
+  "description": "A financial management web application",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Build complete - static files ready'",
+    "start": "npx serve ."
+  },
+  "keywords": ["finance", "inventory", "management"],
+  "author": "Afroz",
+  "license": "MIT"
+}
